@@ -32,7 +32,7 @@ const DANCE_HALL_URL = "https://static.wikia.nocookie.net/hulu/images/6/64/East_
 let titles = [
     "Hip-Hop",
     "AfroBeats",
-    "Dancehall"
+    "DanceHall"
 ];
 // Your final submission should have much more data than this, and 
 // you should use more than just an array of strings to store it all.
@@ -51,11 +51,11 @@ function showCards() {
         // own data, you'll need to do something totally different here.
         let imageURL = "";
         if (i == 0) {
-            imageURL = FRESH_PRINCE_URL;
+            imageURL = HIP_HOP_URL;
         } else if (i == 1) {
-            imageURL = CURB_POSTER_URL;
+            imageURL = AFRO_BEATS_URL;
         } else if (i == 2) {
-            imageURL = EAST_LOS_HIGH_POSTER_URL;
+            imageURL = DANCE_HALL_URL;
         }
 
         const nextCard = templateCard.cloneNode(true); // Copy the template card
