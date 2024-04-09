@@ -24,7 +24,7 @@
  */
 
 
-const HIP_HOP_URL = "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fthoughts-on-the-new-next-gen-of-hiphop-so-far-v0-hwmhb3cp8a2b1.jpg%3Fauto%3Dwebp%26s%3Daef4603ff100268b2497a97cf0b32d172a3e5b5b";
+const HIP_HOP_URL = "file:///Users/xanny/Desktop/thoughts-on-the-new-next-gen-of-hiphop-so-far-v0-hwmhb3cp8a2b1.jpg.webp";
 const AFRO_BEATS_URL = "https://m.media-amazon.com/images/M/MV5BZDY1ZGM4OGItMWMyNS00MDAyLWE2Y2MtZTFhMTU0MGI5ZDFlXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg";
 const DANCE_HALL_URL = "https://static.wikia.nocookie.net/hulu/images/6/64/East_Los_High.jpg";
 
