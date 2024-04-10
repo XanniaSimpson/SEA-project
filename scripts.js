@@ -24,7 +24,7 @@
  */
 
 
-const HIP_HOP_URL = "file:///Users/xanny/Desktop/thoughts-on-the-new-next-gen-of-hiphop-so-far-v0-hwmhb3cp8a2b1.jpg.webp";
+const HIP_HOP_URL = "https://github.com/XanniaSimpson/SEA-project.wiki.git";
 const AFRO_BEATS_URL = "https://m.media-amazon.com/images/M/MV5BZDY1ZGM4OGItMWMyNS00MDAyLWE2Y2MtZTFhMTU0MGI5ZDFlXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg";
 const DANCE_HALL_URL = "https://static.wikia.nocookie.net/hulu/images/6/64/East_Los_High.jpg";
 
